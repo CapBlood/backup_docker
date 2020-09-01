@@ -8,5 +8,5 @@ This utility will allow you to make backups of volumes in your docker (backups a
 # How to use
 The utility is available from the terminal:
 `backup_docker <volume_name> <token>`
-- <volume_name> - volume name for backup
-- <token> - OAuth2 token for authorization in dropbox
+- `<volume_name>` - volume name for backup
+- `<token>` - OAuth2 token for authorization in dropbox
